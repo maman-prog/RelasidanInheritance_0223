@@ -1,5 +1,6 @@
 #ifndef ANAK_H
 #define ANAK_H
+#endif
 
 #include <iostream>
 using namespace std;
